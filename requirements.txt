@@ -1,0 +1,12 @@
+jax
+flax
+optax
+orbax-checkpoint
+datasets
+albumentations
+numpy
+pandas
+openpyxl
+matplotlib
+timm
+torch
